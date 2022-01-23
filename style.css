@@ -44,7 +44,9 @@ p {
 .section-title span {
 	color: crimson;
 }
-
+.bot-work span{
+	color:crimson ;
+}
 .cta {
 	display: inline-block;
 	padding: 10px 30px;
@@ -200,7 +202,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/bgimg.png);
+	background-image: url(./img/bulb.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -291,7 +293,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/img-1.png);
+	background-image: url(./img/botimg.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
