@@ -47,6 +47,9 @@ p {
 .bot-work span{
 	color:crimson ;
 }
+.blackie span{
+	color: rgba(220, 230, 134, 0.87);
+}
 .cta {
 	display: inline-block;
 	padding: 10px 30px;
